@@ -369,6 +369,9 @@ function clean_logged_achievements() {
 
 function publish_achievements
 {
+    if [ $(which git-achievements) != 0 ]; then
+      return
+    fi
     git_achievements="$(which git-achievements)"
     git_achievements_dir="$(dirname "${git_achievements}")"
     if [ -L "${git_achievements}" ]; then
