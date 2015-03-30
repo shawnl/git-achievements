@@ -2,6 +2,7 @@
 <title>'s Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Investigator (Level 3)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
 <item><title>Master Fisherman (Level 7)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Fisherman (Level 6)</title><description>Look for specified patterns in the current repository with git grep.</description></item>
 <item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Carpenter (Level 4)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 </channel></rss>
